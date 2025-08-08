@@ -1,0 +1,9 @@
+push_to_github.bat
+tests
+variaveis/__pycache__,__init__
+Data/dados.csv
+.gitattributes
+notas
+roddar testes.bat
+.vscode
+processing/__pycache__
